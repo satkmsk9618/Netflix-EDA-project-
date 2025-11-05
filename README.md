@@ -17,7 +17,7 @@ To analyze Netflix’s film and TV series collection using attributes such as **
 
 ## ⚙️ Tech Stack
 - **Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Visualization:** Power BI, Jupyter Notebook  
 - **Environment:** Google Colab / Jupyter  
 
